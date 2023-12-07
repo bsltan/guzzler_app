@@ -62,8 +62,8 @@ class _AuthScreenState extends State<AuthScreen> {
               begin: Alignment.topRight,
               end: Alignment.bottomLeft,
               colors: [
-                Colors.grey,
-                Colors.blue,
+                Colors.white,
+                Colors.white,
               ],
             )
           ),
