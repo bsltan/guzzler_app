@@ -21,8 +21,8 @@ class _AuthScreenState extends State<AuthScreen> {
             decoration: const BoxDecoration(
               gradient: LinearGradient(
                 colors: [
-                  Colors.grey,
-                  Colors.red,
+                  Colors.white,
+                  Colors.white,
                 ],
                 begin:  FractionalOffset(0.0, 0.0),
                 end:  FractionalOffset(1.0, 0.0),
